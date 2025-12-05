@@ -7,13 +7,22 @@ Read-only access to any project can be granted upon request for technical evalua
 ---
 
 ## Dynamic Memory Allocator
-Implemented a high-performance dynamic memory allocator using segregated free lists, block coalescing, and alignment strategies.  
+Implemented a high-performance dynamic memory allocator using segregated free lists, block coalescing, and alignment strategies.
+### Performance
+- Throughput: **10,913 kops**
+- Memory utilization: **74.3%**
 **Private Repo:** https://github.com/Sravya0829/Malloc
 
 ---
 
 ## CPU Cache Simulator
-Created a configurable CPU cache simulator using set-associative caching and LRU replacement to measure hit/miss behavior on real memory traces.  
+Created a configurable CPU cache simulator using set-associative caching and LRU replacement to measure hit/miss behavior on real memory traces. 
+### Performance Results
+| Trace / Configuration | Simulated Cycles |
+|----------------------|------------------|
+| Total workload       | **34,966,144**   |
+| 32×32 matrix         | **35,456**       |
+| 1024×1024 matrix     | **34,930,688**   |
 **Private Repo:** https://github.com/Sravya0829/Cache-Simulator
 
 ---
