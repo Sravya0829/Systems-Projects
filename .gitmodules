@@ -1,0 +1,12 @@
+[submodule "Malloc"]
+	path = Malloc
+	url = https://github.com/Sravya0829/Malloc
+[submodule "Cache-Simulator"]
+	path = Cache-Simulator
+	url = https://github.com/Sravya0829/Cache-Simulator
+[submodule "Proxy"]
+	path = Proxy
+	url = https://github.com/Sravya0829/Proxy
+[submodule "Simple-Shell"]
+	path = Simple-Shell
+	url = https://github.com/Sravya0829/Simple-Shell
