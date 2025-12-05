@@ -1,6 +1,3 @@
-# Systems-Projects
-Public overview of my systems programming projects. Code is kept private per systems course policy.
-
 # Systems Programming Project Portfolio
 
 This repository provides a public overview of my course projects.  
